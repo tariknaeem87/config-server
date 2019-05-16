@@ -1,5 +1,8 @@
 spring.thymeleaf.cache: false
 
+build:
+  info:
+    file: classpath:build-info.yml
 swagger:
   api:
     title: sample-api
