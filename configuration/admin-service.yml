@@ -1,3 +1,16 @@
+swagger:
+  api:
+    title: sample-api
+    contact.info: Team
+    licence.url: #
+    description:
+    groupName: sample-api
+    version: 1.0
+    path:
+      regex: /v.*/.*
+  terms.of.service.url: #
+  enabled: true
+
 spring:
   rabbitmq:
     uri : amqp://opwcbexo:5IZ6Ll-lDVKNXQUJBIwghURM9AlIr2Tw@moose.rmq.cloudamqp.com/opwcbexo
