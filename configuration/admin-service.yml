@@ -1,8 +1,3 @@
-server:
-  servlet:
-    contextPath: /api
-  port: 8888
-
 swagger:
   api:
     title: sample-api
@@ -16,6 +11,10 @@ swagger:
   terms.of.service.url: #
   enabled: true
   
+request:
+  logging:
+    enabled: true
+    verbose: false
 spring:
   main:
     allow-bean-definition-overriding: true
