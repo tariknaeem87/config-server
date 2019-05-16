@@ -3,6 +3,11 @@ spring.thymeleaf.cache: false
 build:
   info:
     file: classpath:build-info.yml
+
+server:
+  servlet:
+    contextPath: /api
+
 swagger:
   api:
     title: sample-api
