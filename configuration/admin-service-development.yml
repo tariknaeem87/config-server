@@ -43,4 +43,5 @@ spring:
     
 useSSL: false
 security.enable-csrf: false
-subscriberBaseUrl: https://tsp-subscriber-service.cfapps.io/api
+subscriberBaseUrl: http://localhost:9991
+origin: http://localhost:4200
