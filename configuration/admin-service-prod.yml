@@ -45,3 +45,5 @@ useSSL: false
 security.enable-csrf: false
 subscriberBaseUrl: https://tsp-subscriber-service.cfapps.io/api
 crossOrigin: https://tsp-admin-prod.cfapps.io
+TSPMailAddress: tsp@notification.com
+notifiationBaseUrl: https://tsp-notification-service.cfapps.io/api/
