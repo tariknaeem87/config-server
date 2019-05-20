@@ -39,7 +39,7 @@ spring:
     generate-ddl: true
     show-sql: true
   rabbitmq:
-    uri : amqp://opwcbexo:5IZ6Ll-lDVKNXQUJBIwghURM9AlIr2Tw@moose1.rmq.cloudamqp.com/opwcbexo
+    uri : amqp://opwcbexo:5IZ6Ll-lDVKNXQUJBIwghURM9AlIr2Tw@moose.rmq.cloudamqp.com/opwcbexo
     exchange: testExchange
     routingkey: messages.key
     
