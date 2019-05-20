@@ -48,4 +48,3 @@ security:
 adminBaseUrl: https://tsp-admin-service.cfapps.io/api/
 notifiationBaseUrl: https://tsp-notification-service.cfapps.io/api/
 crossOrigin: https://tsp-subscriber.cfapps.io
-crossOrigin: https://tsp-subscriber.cfapps.io
