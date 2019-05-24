@@ -44,4 +44,4 @@ spring:
 useSSL: false
 security.enable-csrf: false
 subscriberBaseUrl: http://localhost:9991
-origin: http://localhost:4200
+crossOrigin: http://localhost:4200
